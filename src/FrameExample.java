@@ -13,7 +13,7 @@ public class FrameExample
 			JLabel lbl1 = new JLabel("Welcome to GUI!");
 			lbl1.setBounds(35, 55, 200, 30);
 			myFrame.add(lbl1);
-			
+			lbl1.setFont()
 			myFrame.setVisible(true);
 			myFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		}
